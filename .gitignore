@@ -1,0 +1,18 @@
+# Variables de entorno y claves privadas
+.env
+exb-backend/.env
+exb-frontend/.env
+exb-frontend/.env.local
+
+# Entornos virtuales y caché de Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+
+# Dependencias y compilación de Next.js
+node_modules/
+exb-frontend/node_modules/
+exb-frontend/.next/
+exb-frontend/out/
